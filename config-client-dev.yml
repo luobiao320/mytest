@@ -1,3 +1,5 @@
 info:
   prssfil2e1: dev1
   from1: git2
+server:
+  port: 3001
